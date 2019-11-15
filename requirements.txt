@@ -7,4 +7,4 @@ tensorflow
 Keras
 jupyter
 jupyterlab
-
+seaborn
